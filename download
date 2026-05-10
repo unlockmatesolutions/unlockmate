@@ -1,0 +1,11 @@
+.env
+*.env
+__pycache__/
+*.py[cod]
+node_modules/
+build/
+app/backend/local_db.json
+app/backend/.env
+app/frontend/.env
+app/frontend/build/
+app/frontend/node_modules/
